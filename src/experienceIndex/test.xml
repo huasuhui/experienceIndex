@@ -10,4 +10,11 @@
       <answer>J K. Rowling2</answer>
    </Ploblem>
 
-</Ploblems> 
+<Ploblem><theme>123</theme><answer>4561</answer></Ploblem>
+<Ploblem><theme>123</theme><answer>45612</answer></Ploblem>
+<Ploblem><theme>123</theme><answer>456123</answer></Ploblem>
+
+<Ploblem><theme>111</theme><answer>222</answer></Ploblem>
+
+
+</Ploblems>
